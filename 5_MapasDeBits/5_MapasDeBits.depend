@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1493309852 source:c:\users\guest\dropbox\sae\clases\poo3\5_mapasdebits\5_mapasdebits\5_mapasdebits.cpp
+	"stdafx.h"
+	"Bitmap.h"
+
+1493309876 c:\users\guest\dropbox\sae\clases\poo3\5_mapasdebits\5_mapasdebits\stdafx.h
+	<stdlib.h>
+	<stdio.h>
+	<tchar.h>
+
+1493916788 c:\users\guest\dropbox\sae\clases\poo3\5_mapasdebits\5_mapasdebits\bitmap.h
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
+1477071038 source:c:\users\guest\dropbox\sae\clases\poo3\5_mapasdebits\5_mapasdebits\stdafx.cpp
+	"stdafx.h"
+
+1493916621 source:c:\users\guest\dropbox\sae\clases\poo3\5_mapasdebits\5_mapasdebits\bitmap.cpp
+	"Bitmap.h"
+
